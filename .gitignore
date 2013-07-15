@@ -28,6 +28,28 @@ stamp-h1
 build
 doc/*.html
 
+config.log
+config.status
+tokyocabinet.pc
+tcamgr
+tcamttest
+tcatest
+tcawmgr.cgi
+tcbmgr
+tcbmttest
+tcbtest
+tcfmgr
+tcfmttest
+tcftest
+tchmgr
+tchmttest
+tchtest
+tctmgr
+tctmttest
+tcttest
+tcucodec
+tcumttest
+tcutest
 # OS X crap
 .DS_Store
 
