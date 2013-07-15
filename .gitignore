@@ -1,0 +1,41 @@
+# Object files
+*.o
+
+# Libraries
+*.lib
+*.a
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# build files
+*.m4
+autom4te.cache
+depcomp
+missing
+Makefile
+.deps
+install-sh
+stamp-h1
+build
+doc/*.html
+
+# OS X crap
+.DS_Store
+
+# emacs crap
+*~
+foo
+bar
+baz
+
+# project generated files
+lib/test
